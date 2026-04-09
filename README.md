@@ -1483,6 +1483,7 @@ Odysee website contains some trackers and is a heavy site. You can use these alt
 ## Utilities
 - [Deskreen](https://github.com/pavlobu/deskreen) - Turn any device into a secondary screen for your computer.
 - [Loggit](https://loggit.net) - Simple and Encrypted Life Tracking & Logging.
+- [DesktopRedact](https://desktopredact.com) - Local-first desktop app that automatically detects PII (names, emails, phone numbers, addresses) in PDF and Word documents and burns redactions permanently into the exported PDF. Runs 100% offline — no cloud upload, no account, no telemetry.
 
 [Back to top 🔝](#contents)
 
